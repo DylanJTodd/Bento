@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'D2L',
 			icon: 'trello',
 			link: 'https://d2l.laurentian.ca/d2l/home',
 		},
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Nostalgia',
-					link: 'https://www.youtube.com/watch?v=KFjMHMIQjW8',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=oFen7IRKzEs',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
 					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=wp2Hwi9qM48&list=PLyvfk75Tg9ymTJ5_xKsGA-yavhYrs3yL3',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=lM5L3hO1xnQ',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
