@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'MindTap',
+					link: 'https://www.cengage.ca/dashboard/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Discord',
+					link: 'https://discord.com/channels/@me',
 				},
 				{
 					name: 'Trello',
