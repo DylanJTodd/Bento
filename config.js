@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://discord.com/channels/@me',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'WileyPlus',
+					link: 'https://learn.wileyplus.com/courses/151910',
 				},
 				{
 					name: 'Slack',
