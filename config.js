@@ -169,7 +169,7 @@ const CONFIG = {
 					link: 'https://discord.com/channels/@me',
 				},
 				{
-					name: 'WileyPlus',
+					name: 'WileyPlus+',
 					link: 'https://learn.wileyplus.com/courses/151910',
 				},
 				{
