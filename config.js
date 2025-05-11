@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'mailto: Null'
+			link: 'https://mail.google.com/mail'
 		},
 		{
 			id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Chat',
 			icon: 'glasses',
-			link: 'https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '6',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'MindTap',
-					link: 'https://www.cengage.ca/dashboard/',
+					name: 'LinkedIn',
+					link: 'https://www.linkedin.com/in/dylan-j-todd/',
 				},
 				{
 					name: 'Discord',
 					link: 'https://discord.com/channels/@me',
 				},
 				{
-					name: 'WileyPlus+',
-					link: 'https://learn.wileyplus.com/courses/151910',
+					name: 'Textbook',
+					link: 'https://brytewave.redshelf.com/accounts/login/?next=/library/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 			],
 		},
